@@ -1,0 +1,39 @@
+site_name: Azin cloud documentation
+site_description: Official documentation for Azin cloud products
+site_url: https://docs.azintelecom.az
+theme:
+  name: material
+  features:
+    - tabs
+  #dark theme
+  # palette:
+  #   scheme: slate
+
+nav:
+  - Getting started:
+    - Introduction: index.md
+    - Getting started: ui/intro.md
+  - CLI:
+    - Getting started: cli/intro.md
+    - Usage: cli/usage.md
+  - UI:
+    - Cloud init: ui/cloud-init.md
+    - Apps: ui/apps.md
+  - Releases: 
+    - 3.0.0: releases/3.0.0.md
+
+
+markdown_extensions:
+  - admonition
+  - codehilite:
+      guess_lang: false
+
+repo_name: Azintelecom/Azin-Cli
+repo_url: https://github.com/Azintelecom/Azin-Cli
+
+extra:
+  social:
+    - icon: fontawesome/brands/github-alt
+      link: https://github.com/Azintelecom
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/company/azintelecom-llc/
