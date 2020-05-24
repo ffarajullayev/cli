@@ -28,6 +28,9 @@ markdown_extensions:
   - codehilite:
       guess_lang: false
 
+plugins:
+  - git-revision-date-localized
+
 repo_name: Azintelecom/Azin-Cli
 repo_url: https://github.com/Azintelecom/Azin-Cli
 
