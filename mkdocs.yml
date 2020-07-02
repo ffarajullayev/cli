@@ -10,14 +10,16 @@ theme:
   #   scheme: slate
 
 nav:
-  - Getting started:
-    - Introduction: index.md
-    - Getting started: ui/intro.md
+  - AzCloud:
+    - Home: index.md
+    - Getting started: ui/create-vm.md
   - CLI:
     - Getting started: cli/intro.md
+    - Create virtual machine: cli/create-vm.md
     - Usage: cli/usage.md
+    - Automation: cli/automation.md
   - UI:
-    - Cloud init: ui/cloud-init.md
+    - Mount custom ISO: iso/mount-iso.md
     - Apps: ui/apps.md
   - Releases: 
     - 3.0.0: releases/3.0.0.md
