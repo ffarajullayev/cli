@@ -15,7 +15,7 @@ Choose a template from the available ones or clone one of your virtual machines.
 
 ## Configuration
 
-You can configure ***cpu*** and ***ram** for your new virtual machine. If you are cloning an existing virtual machine you will also see the size of the disks that will be cloned.
+You can configure **cpu** and **ram** for your new virtual machine. If you are cloning an existing virtual machine you will also see the size of the disks that will be cloned.
 
 ![configure](./images/intro/configure.png)
 
