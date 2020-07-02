@@ -19,7 +19,7 @@ nav:
     - Usage: cli/usage.md
     - Automation: cli/automation.md
   - UI:
-    - Mount custom ISO: iso/mount-iso.md
+    - Mount custom ISO: ui/mount-iso.md
     - Apps: ui/apps.md
   - Releases: 
     - 3.0.0: releases/3.0.0.md
