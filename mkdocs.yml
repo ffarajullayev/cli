@@ -18,6 +18,7 @@ nav:
     - Create virtual machine: cli/create-vm.md
     - Usage: cli/usage.md
     - Automation: cli/automation.md
+    - Apps: cli/apps.md
   - UI:
     - Mount custom ISO: ui/mount-iso.md
     - Apps: ui/apps.md
