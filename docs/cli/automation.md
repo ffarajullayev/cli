@@ -25,8 +25,15 @@ network:
             - 8.8.8.8
 ```
 !!! Note
-    This configuration works for Centos systems with cloud init installed (by default all Linux systems templates).
+    This configuration works for Linux systems with cloud init installed.
 We need to change the address and gateway to our needs.
+
+!!! Note
+When wanting to assign another ip address to existing VM, please first run the following command:
+```bash
+sudo touch /etc/cloud/cloud-init.disabled
+```
+This will make sure that cloud init does not reset the ip address on the next restart.
 
 ## Install custom package
 You can install custom packages (please note internet should be available there) using the following userdata script:
