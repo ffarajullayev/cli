@@ -29,7 +29,7 @@ network:
 We need to change the address and gateway to our needs.
 
 !!! Note
-When wanting to assign another ip address to existing VM, please first run the following command:
+    When wanting to assign another ip address to existing VM, please first run the following command:
 ```bash
 sudo touch /etc/cloud/cloud-init.disabled
 ```
