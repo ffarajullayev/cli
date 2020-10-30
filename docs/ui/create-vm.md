@@ -3,7 +3,7 @@
 Create your first virtual machine using the UI.
 
 ## Access the UI
-Login to your account by visiting the link <https://cloud.azintelecom.az>. 
+Login to your account by visiting the link <https://cloud-v3.azintelecom.az>. 
 To make your first virtual machine click on ***New Machine*** on the left.
 
 ![choose template](./images/intro/choose-templates.png)
