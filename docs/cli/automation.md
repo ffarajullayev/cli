@@ -15,12 +15,14 @@ network:
   version: 1
   config:
     - type: physical
-  name: ens192
-  subnets:
-    - type: static
-  address: 192.168.1.2
-  netmask: 255.255.255.0
-  gateway: 192.168.1.254
+      name: ens192
+      subnets:
+        - type: static
+          address: 192.168.1.2
+          netmask: 255.255.255.0
+          gateway: 192.168.1.254
+          dns_nameservers:
+            - 8.8.8.8
 ```
 !!! Note
     This configuration works for Centos systems with cloud init installed (by default all Linux systems templates).
