@@ -21,6 +21,7 @@ nav:
     - Automation: cli/automation.md
     - Apps: cli/apps.md
   - UI:
+    - Projects: ui/projects.md
     - Mount custom ISO: ui/mount-iso.md
     - Apps: ui/apps.md
     - Trash Bin: ui/bin.md
