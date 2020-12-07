@@ -22,6 +22,7 @@ nav:
     - Apps: cli/apps.md
   - UI:
     - Projects: ui/projects.md
+    - Quota: ui/quota.md
     - CPU: ui/cpu.md
     - RAM: ui/ram.md
     - Storage: ui/storage.md
