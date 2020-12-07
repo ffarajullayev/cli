@@ -13,7 +13,7 @@ theme:
 nav:
   - AzCloud:
     - Home: index.md
-    - Getting started: ui/create-vm.md
+    - Getting started: ui/projects.md
   - CLI:
     - Getting started: cli/intro.md
     - Create virtual machine: cli/create-vm.md
@@ -21,7 +21,19 @@ nav:
     - Automation: cli/automation.md
     - Apps: cli/apps.md
   - UI:
+    - Projects: ui/projects.md
+    - Notifications: ui/notifications.md
+    - Quota: ui/quota.md
+    - Create VM: ui/create-vm.md
+    - Power: ui/power.md
+    - Console: ui/console.md
     - Mount custom ISO: ui/mount-iso.md
+    - CPU: ui/cpu.md
+    - RAM: ui/ram.md
+    - Storage: ui/storage.md
+    - Networks: ui/networks.md
+    - Snapshots: ui/snapshots.md
+    - Monitoring: ui/monitoring.md
     - Apps: ui/apps.md
     - Trash Bin: ui/bin.md
   - Releases: 
