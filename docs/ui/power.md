@@ -13,4 +13,4 @@ If you want to switch the vm off, choose the vm that is on and then click "Power
 If you want to power on the vm, choose the vm and then click "Power On":
 ![On](./images/power/on.png)
 
-> Note: when the vm is on, you can now connect to VMRC console.
+> Note: when the vm is on, you can now connect to remote console.

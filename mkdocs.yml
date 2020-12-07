@@ -26,7 +26,7 @@ nav:
     - Quota: ui/quota.md
     - Create VM: ui/create-vm.md
     - Power: ui/power.md
-    - VMRC: ui/vmrc.md
+    - Console: ui/console.md
     - Mount custom ISO: ui/mount-iso.md
     - CPU: ui/cpu.md
     - RAM: ui/ram.md
