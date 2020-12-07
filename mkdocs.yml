@@ -22,6 +22,12 @@ nav:
     - Apps: cli/apps.md
   - UI:
     - Projects: ui/projects.md
+    - CPU: ui/cpu.md
+    - RAM: ui/ram.md
+    - Storage: ui/storage.md
+    - Networks: ui/networks.md
+    - Snapshots: ui/snapshots.md
+    - Monitoring: ui/monitoring.md
     - Mount custom ISO: ui/mount-iso.md
     - Apps: ui/apps.md
     - Trash Bin: ui/bin.md
