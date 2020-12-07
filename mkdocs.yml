@@ -13,7 +13,7 @@ theme:
 nav:
   - AzCloud:
     - Home: index.md
-    - Getting started: ui/create-vm.md
+    - Getting started: ui/projects.md
   - CLI:
     - Getting started: cli/intro.md
     - Create virtual machine: cli/create-vm.md
@@ -22,7 +22,9 @@ nav:
     - Apps: cli/apps.md
   - UI:
     - Projects: ui/projects.md
+    - Notifications: ui/notifications.md
     - Quota: ui/quota.md
+    - Create VM: ui/create-vm.md
     - Power: ui/power.md
     - VMRC: ui/vmrc.md
     - Mount custom ISO: ui/mount-iso.md
