@@ -1,10 +1,11 @@
 site_name: Azin cloud documentation
 site_description: Official documentation for Azin cloud products
-site_url: https://docs.azintelecom.az
+site_url: https://v3docs.azintelecom.az
 theme:
   name: material
   features:
     - tabs
+    - search.suggest
   #dark theme
   # palette:
   #   scheme: slate
@@ -22,6 +23,7 @@ nav:
   - UI:
     - Mount custom ISO: ui/mount-iso.md
     - Apps: ui/apps.md
+    - Trash Bin: ui/bin.md
   - Releases: 
     - 3.0.0: releases/3.0.0.md
 
@@ -33,6 +35,7 @@ markdown_extensions:
 
 plugins:
   - git-revision-date-localized
+  - search
 
 repo_name: Azintelecom/Azin-Cli
 repo_url: https://github.com/Azintelecom/Azin-Cli
