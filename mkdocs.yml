@@ -23,6 +23,8 @@ nav:
   - UI:
     - Projects: ui/projects.md
     - Quota: ui/quota.md
+    - Power: ui/power.md
+    - VMRC: ui/vmrc.md
     - CPU: ui/cpu.md
     - RAM: ui/ram.md
     - Storage: ui/storage.md
