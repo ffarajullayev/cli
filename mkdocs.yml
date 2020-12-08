@@ -8,6 +8,8 @@ theme:
     - search.suggest
   logo: assets/logo.png
   favicon: assets/logo.png
+  palette:
+    primary: blue
   #dark theme
   # palette:
   #   scheme: slate
