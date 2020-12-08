@@ -6,6 +6,7 @@ To view all the networks connected to your vm, click on "Networks":
 > Note: by default every new adapter gets connected to "quarantine" network, which is like an empty network.
 
 Each network adapter has:
+
 - Name - usually the order in which it was created
 - MAC address - uniquely generated once for that adapter when it is created
 - Port (EPG) that adapter is connected to

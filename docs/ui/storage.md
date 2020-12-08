@@ -8,6 +8,7 @@ If you want to add storage to your vm, click "Add disk +":
 ![Add disk](./images/storage/add-disk.png)
 
 You can now choose the Size of the disk (in GB) and the type of storage:
+
 - 7k - slow storage
 - 10k - medimum storage
 - SSD - fast storage

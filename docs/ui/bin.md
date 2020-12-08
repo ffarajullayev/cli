@@ -14,6 +14,7 @@ You can now find your vm in the trash bin tab on the home screen:
 ![Trash bin](./images/bin/bin.png)
 
 You have couple of operations you can do with the bin:
+
 - Recover the vm - meaning it will be moved from the trash bin back to the project
 - Delete forever - meaning it will be removed completely from the trash bin and cannot be recovered
 - Empty trash bin - delete all the vms currently stored in the trash bin for the current project

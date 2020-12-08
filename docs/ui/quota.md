@@ -1,5 +1,6 @@
 # Company Quota
 Your company gets assigned a certain quota, according to your contract with Azintelecom. Your quota consists of:
+
 - CPU
 - RAM
 - Disk 7k (low-speed storage)
