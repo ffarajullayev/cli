@@ -6,6 +6,8 @@ theme:
   features:
     - tabs
     - search.suggest
+  logo: assets/logo.png
+  favicon: assets/logo.png
   #dark theme
   # palette:
   #   scheme: slate
